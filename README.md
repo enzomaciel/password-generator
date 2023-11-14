@@ -1,8 +1,11 @@
-# React + Vite
+# Password Generator
+### Developing a password generator with React, the objective was to change the copy button to copying, and carry out the password generation logic of at least 5 and maximum 22 characters.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Part 1
+![Part 1](https://github.com/enzomaciel/password-generator/blob/main/1.PNG?raw=true)
 
-Currently, two official plugins are available:
+## Part 2
+![Part 2](https://github.com/enzomaciel/password-generator/blob/main/2.PNG?raw=true)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Part 3
+![Part 3](https://github.com/enzomaciel/password-generator/blob/main/3.PNG?raw=true)
